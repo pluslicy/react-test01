@@ -43,4 +43,12 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+列表
+![avatar](https://raw.githubusercontent.com/pluslicy/react-test01/master/public/images/book.jpg)
+顾客列表
+![avatar](https://raw.githubusercontent.com/pluslicy/react-test01/master/public/images/customer_list.jpg)
+添加顾客信息页面
+![avatar](https://raw.githubusercontent.com/pluslicy/react-test01/master/public/images/customer_save.jpg)
+修改顾客信息页面
+![avatar](https://raw.githubusercontent.com/pluslicy/react-test01/master/public/images/customer_update.jpg)
 
